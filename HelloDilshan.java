@@ -1,11 +1,11 @@
-package com.pearson.nextgen.reportingservice;
 
 /**
  * @author Dilshan Niroda
  * @Date 2020-02-17
  * @Time 7:18 PM
  */
-public class HelloDilshan {
+class HelloDilshan {
+
 
     public static void main(String[] args) {
 
